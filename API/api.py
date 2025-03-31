@@ -2,7 +2,6 @@ import requests
 import pandas as pd
 
 # 인증키
-api_key = "NzU5ZGMzYmEyNjYyZjU2NWRkZjIyODkxMjRjMmQyNzM="
 
 # API 요청 URL
 url = "https://kosis.kr/openapi/Param/statisticsParameterData.do"
